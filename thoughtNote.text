@@ -1,0 +1,11 @@
+Frontend
+steps to start application:-
+1. cd frontend
+2. npm start
+
+Backend 
+1. cd backend
+2. nodemon app.js
+
+=> Also go to package.json and write npm install or npm i to download node modules
+=> Also open Xampp service and start appache service with MySQL database.
